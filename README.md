@@ -1,5 +1,5 @@
 # Databas Sqlite för Westcoast Education
 
-### Skapat en databas för min första mvc-applikation. Ett fiktivt projekt under namnet Westcoast Education (WE).
+### Tredje & sista delen av min första mvc-applikation. Ett fiktivt projekt under namnet Westcoast Education (WE).
 
-I denna delen har jag implementerat designmönstren Repository och Unit Of Work.
+I denna del av projektet har jag fortsatt att arbeta med Entity Framework. Jag har även implementerat designmönstren Repository och Unit Of Work.
